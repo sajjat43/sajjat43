@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **giftship**
 
-- 🌱 I’m currently learning **nodejs**
+- 🌱 I’m currently learning **vue js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajjat43](https://github.com/sajjat43)
 
