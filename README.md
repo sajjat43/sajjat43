@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **giftship**
+- 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **vue js**
+- 🌱 I’m currently learning **Ajax**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sajjat43](https://github.com/sajjat43)
 
