@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **Vue js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sajjat43](https://github.com/sajjat43)
 
 - 📫 How to reach me **mdsajjat43@gmail.com**
